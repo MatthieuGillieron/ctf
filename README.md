@@ -14,18 +14,12 @@
       </a>
     </td>
     <!-- 2ème cellule : image/upsi.png cliquable, 100x100 -->
-    <td style="width: 25%;" align="center">
-      <a href="https://upsijam.ch/">
-        <img src="images/upsi.png" alt="Upsi" style="width: 120px; height: 120px;">
-      </a>
+    <td style="width: 25%;" align="left">
+      <strong>comming:</strong> soon<br>
     </td>
     <!-- 3ème cellule : texte avec les détails du jeu -->
     <td style="width: 25%;" align="left">
-      <strong>Theme:</strong> Split<br>
-      <strong>Game:</strong> Cell_Slayer<br>
-      <strong>Started:</strong> 14-03-25<br>
-      <strong>Ended:</strong> 16-03-25,<br>
-      <a href="https://magillie.itch.io/cell-slayer">Click for play</a>
+      <strong>comming:</strong> soon<br>
     </td>
     <!-- 4ème cellule : auteurs avec liens GitHub -->
     <td style="width: 25%;" align="left">
